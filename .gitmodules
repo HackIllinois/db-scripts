@@ -1,3 +1,0 @@
-[submodule "db-backups"]
-	path = db-backups
-	url = https://github.com/HackIllinois/db-backups
