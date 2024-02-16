@@ -36,3 +36,10 @@ if __name__ == "__main__":
 
     # Save the DataFrame to a CSV file
     df.to_csv("registration_apps.csv", index=False)
+    
+    # Change the params to get stats here 
+    # print(len(df[df["isProApplicant"] == False]))
+
+    # Get unfinished applications
+    # df = df["emailAddress"]
+    # df.to_csv("unfinished_apps.cvs",index=False)
