@@ -1,6 +1,6 @@
 from enum import Enum
 
-LATEST_BACKUP_DATE = "2024-02-21"
+LATEST_BACKUP_DATE = "2024-02-22"
 
 class Databases(Enum):
     ADMISSION = "admission"
